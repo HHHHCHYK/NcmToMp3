@@ -1,0 +1,15 @@
+D:\Code\NcmToMp3\NcmToMp3\bin\Debug\net10.0\NcmToMp3.exe
+D:\Code\NcmToMp3\NcmToMp3\bin\Debug\net10.0\NcmToMp3.deps.json
+D:\Code\NcmToMp3\NcmToMp3\bin\Debug\net10.0\NcmToMp3.runtimeconfig.json
+D:\Code\NcmToMp3\NcmToMp3\bin\Debug\net10.0\NcmToMp3.dll
+D:\Code\NcmToMp3\NcmToMp3\bin\Debug\net10.0\NcmToMp3.pdb
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.AssemblyInfoInputs.cache
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.AssemblyInfo.cs
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.csproj.CoreCompileInputs.cache
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.sourcelink.json
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.dll
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\refint\NcmToMp3.dll
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.pdb
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\NcmToMp3.genruntimeconfig.cache
+D:\Code\NcmToMp3\NcmToMp3\obj\Debug\net10.0\ref\NcmToMp3.dll

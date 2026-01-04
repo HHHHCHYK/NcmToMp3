@@ -10,7 +10,7 @@ public class NCMFileReader
         var fileList = Directory.GetFiles(rootPath, "*.ncm", SearchOption.AllDirectories);
         if (fileList.Length == 0x00)
         {
-            NoticePublisher.Publish("路径下没有NCM文件", this, MessageLevel.Warning);
+            Console.WriteLine("路径下没有NCM文件");
             return;
         }
 
